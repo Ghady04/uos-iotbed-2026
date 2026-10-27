@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Machine-Learning-7C3AED?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Packets-321%2C974-14B8A6?style=for-the-badge" alt="321,974 packets" />
   <img src="https://img.shields.io/badge/Traffic_Classes-4-F97316?style=for-the-badge" alt="4 traffic classes" />
-  <img src="https://img.shields.io/badge/Draft_RF_Accuracy-96.31%25-64748B?style=for-the-badge" alt="Draft-reported Random Forest accuracy: 96.31 percent" />
+  <img src="https://img.shields.io/badge/RF_Accuracy-96.31%25-64748B?style=for-the-badge" alt="Random Forest accuracy: 96.31 percent" />
 </p>
 
 **Real traffic. Reproducible research. Practical IoT security.**
