@@ -91,7 +91,3 @@ The selected model features described in the paper exclude source and destinatio
     └── normal
         └── final_normal.csv
 ```
-
-## Paper
-
-[Research Paper - IoT IDS draft 2.docx](Research%20Paper%20-%20IoT%20IDS%20draft%202.docx) — current manuscript draft describing the testbed, dataset, feature selection, and model evaluation.
